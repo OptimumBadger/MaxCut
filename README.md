@@ -28,6 +28,6 @@ julia maxcut.jl <instance_file> <formulation>
 
 where `<formulation>` is:
 
-- `1` — SDP relaxation (`C^SDP`)
-- `2` — McCormick + Triangle LP relaxation (`C^{MC+Tri}`)
-- `3` — Combined SDP + McCormick + Triangle (`C^{MC+Tri+SDP}`)
+- `1` — SDP relaxation 
+- `2` — McCormick + Triangle LP relaxation 
+- `3` — Combined SDP + McCormick + Triangle 
