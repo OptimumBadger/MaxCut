@@ -1,4 +1,4 @@
-This repository contains code, data, and a written report comparing three convex relaxations of the **Maximum Cut (Max-Cut)** problem on standard benchmark instances.
+This repository contains code comparing three convex relaxations of the **Maximum Cut (Max-Cut)** problem on standard benchmark instances.
 ## Running `maxcut.jl`
 
 `maxcut.jl` solves a single Max-Cut instance with one of the three relaxations and prints the resulting bound.
